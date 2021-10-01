@@ -24,9 +24,18 @@ Being part of the 21st century, it has become vital to manage time and handle th
 
 ## How we built it
 
+python modules used:
+
 * `pip install SpeechRecognition` - covert audio in to text for the processing
 * `pip install pyttsx3`           - python library for text to speech conversion
 * `pip install pyaudio`           - provides Python bindings for PortAudio, the cross-platform audio I/O library
+* `pip install pywhatkit`         - python library for sending whatsapp messages, play youtube video, perform google search etc.
 * `pip install webbrowser`        - allows the display of web based documents to the users
 * `pip install pyzbar`            - Python library that reads one-dimensional barcodes and QR codes using the zbar library
-* `pip install pyjokes`           
+* `pip install pyjokes`           - create random jokes
+
+## Contributers
+
+[Anaga K](https://github.com/Anaga01)
+
+[Neda Ashraf P V](https://github.com/neda21)
