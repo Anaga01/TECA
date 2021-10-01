@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-Living in the 21st century, it has become vital to manage time and handle the day to day tasks with more ease and efficiency. With regard to the need for increased productivity , reduced working hours, flexible and accurate working model, a healthy environment,the core needs of virtual assistants do come up.
+Living in the 21st century, it has become vital to manage time and handle the day to day tasks with more ease and efficiency. With regard to the need for increased productivity , reduced working hours, flexible and accurate working model, a healthy environment, the core needs of virtual assistants do come up.
 
 ## Overview
 
@@ -35,7 +35,9 @@ Living in the 21st century, it has become vital to manage time and handle the da
 * `pip install opencv-python`     - used for the computer vision, machine learning, and image processing.
 * `pip install pyjokes`           - create random jokes.
 
-* Made use of third party API [OpenWeatherMap](https://openweathermap.org/api) for weather forecasting.
+### Made use of third party API's
+*  [OpenWeatherMap](https://openweathermap.org/api): weather forecasting.
+*  [IPinfo](https://ipinfo.io/): identify geographical location.
 
 ## How to run
 
