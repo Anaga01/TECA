@@ -41,10 +41,14 @@ Living in the 21st century, it has become vital to manage time and handle the da
 
 ## How to run
 
-[`git clone`](https://github.com/Anaga01/TECA.git)
-then go to project directory </br>
-python (teca.py)
-to run
+1. Clone github repository
+```
+git clone https://github.com/Anaga01/TECA.git
+```
+2. Go to project directory and execute the following command in console to run the code:
+```
+python teca.py
+```
 
 ## Contributers
 
