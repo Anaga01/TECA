@@ -24,18 +24,27 @@ Being part of the 21st century, it has become vital to manage time and handle th
 
 ## How we built it
 
-python modules used:
+### python modules used in building **TECA**:
 
 * `pip install SpeechRecognition` - covert audio in to text for the processing
 * `pip install pyttsx3`           - python library for text to speech conversion
-* `pip install pyaudio`           - provides Python bindings for PortAudio, the cross-platform audio I/O library
+* `pip install playsound`         - provides Python bindings for PortAudio, the cross-platform audio I/O library
 * `pip install pywhatkit`         - python library for sending whatsapp messages, play youtube video, perform google search etc.
 * `pip install webbrowser`        - allows the display of web based documents to the users
 * `pip install pyzbar`            - Python library that reads one-dimensional barcodes and QR codes using the zbar library
+* `pip install opencv-python`     - used for the computer vision, machine learning, and image processing
 * `pip install pyjokes`           - create random jokes
+
+* Made use of third party API [OpenWeatherMap](https://openweathermap.org/api) for weather forecasting.
+
+## Getting started
+
+
 
 ## Contributers
 
 [Anaga K](https://github.com/Anaga01)
 
 [Neda Ashraf P V](https://github.com/neda21)
+
+[Neha Susan Manoj](https://github.com/neha771)
