@@ -6,7 +6,7 @@ Living in the 21st century, it has become vital to manage time and handle the da
 
 ## Overview
 
-**TECA**-An AI personal assistant is a piece of software that understands verbal or written commands and completes tasks assigned by the user.We have utilized few libraries offered by python for building this.
+**TECA**-An AI personal assistant is a piece of software that understands verbal or written commands and completes tasks assigned by the user. We have utilized few libraries offered by python for building this.
 
 **TECA**, assists the user in doing the following tasks:
 
