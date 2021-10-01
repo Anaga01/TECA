@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-Being part of the 21st century, it has become vital to manage time and handle the day to day tasks with more ease and efficiency. With regard to the need for increased productivity , reduced working hours, flexible and accurate working model, a healthy environment,the core needs of virtual assistants do come up.
+Living in the 21st century, it has become vital to manage time and handle the day to day tasks with more ease and efficiency. With regard to the need for increased productivity , reduced working hours, flexible and accurate working model, a healthy environment,the core needs of virtual assistants do come up.
 
 ## Overview
 
@@ -26,20 +26,23 @@ Being part of the 21st century, it has become vital to manage time and handle th
 
 ### python modules used in building **TECA**:
 
-* `pip install SpeechRecognition` - covert audio in to text for the processing
-* `pip install pyttsx3`           - python library for text to speech conversion
-* `pip install playsound`         - provides Python bindings for PortAudio, the cross-platform audio I/O library
+* `pip install SpeechRecognition` - covert audio in to text for the processing.
+* `pip install pyttsx3`           - python library for text to speech conversion.
+* `pip install playsound`         - provides Python bindings for PortAudio, the cross-platform audio I/O library.
 * `pip install pywhatkit`         - python library for sending whatsapp messages, play youtube video, perform google search etc.
-* `pip install webbrowser`        - allows the display of web based documents to the users
-* `pip install pyzbar`            - Python library that reads one-dimensional barcodes and QR codes using the zbar library
-* `pip install opencv-python`     - used for the computer vision, machine learning, and image processing
-* `pip install pyjokes`           - create random jokes
+* `pip install webbrowser`        - allows the display of web based documents to the users.
+* `pip install pyzbar`            - Python library that reads one-dimensional barcodes and QR codes using the zbar library.
+* `pip install opencv-python`     - used for the computer vision, machine learning, and image processing.
+* `pip install pyjokes`           - create random jokes.
 
 * Made use of third party API [OpenWeatherMap](https://openweathermap.org/api) for weather forecasting.
 
-## Getting started
+## How to run
 
-
+[`git clone`](https://github.com/Anaga01/TECA.git)
+then go to project directory </br>
+python (teca.py)
+to run
 
 ## Contributers
 
